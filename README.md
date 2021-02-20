@@ -1,2 +1,2 @@
-# build
+# stoplight-build
 Created with CodeSandbox
